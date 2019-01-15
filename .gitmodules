@@ -1,0 +1,15 @@
+[submodule "lib/api-landscape"]
+	path = lib/api-landscape
+	url = git@github.com:netmilk/api-landscape-lifecycle.git
+[submodule "designs/backend-api-design"]
+	path = designs/backend-api-design
+	url = git@github.com:netmilk/backend-api-design.git
+[submodule "designs/public-api-design"]
+	path = designs/public-api-design
+	url = git@github.com:netmilk/public-api-design.git
+[submodule "services/public-service"]
+	path = services/public-service
+	url = git@github.com:netmilk/public-service.git
+[submodule "services/backend-service"]
+	path = services/backend-service
+	url = git@github.com:netmilk/backend-service.git

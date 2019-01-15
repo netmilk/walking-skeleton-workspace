@@ -1,0 +1,17 @@
+{
+  "name": "walking-skeleton-monorepo",
+  "version": "0.0.1",
+  "description": "End-to-end contract driven API development and validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Kliment <adam@netmilk.net>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "designs/*",
+    "services/*",
+    "lib/*"
+  ]
+}
